@@ -1,0 +1,14 @@
+.border
+{
+    padding: 10px;
+    background: #c7c6c6;
+    border-width: medium;
+    border-style: none;
+    border: 50px blue;
+    border-style: solid dotted groove double;
+}
+
+.link 
+{
+    background: #c7c6c6;
+}
